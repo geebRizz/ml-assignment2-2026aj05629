@@ -2,8 +2,8 @@
 
 M.Tech AIML, BITS Pilani WILP
 
-- GitHub repo: <url here>
-- Streamlit app: <url here>
+- GitHub repo: <https://github.com/geebRizz/ml-assignment2-2026aj05629>
+- Streamlit app: <https://ml-assignment2-2026aj05629-6ypu2uqcpxg8chw5sggyyh.streamlit.app/>
 
 ## a. Problem statement
 
@@ -34,7 +34,7 @@ Preprocessing:
 
 ## c. GitHub repository
 
-<url here>
+<https://github.com/geebRizz/ml-assignment2-2026aj05629>
 
 ```
 ├── app.py                     # Streamlit app
@@ -114,7 +114,7 @@ Since two models got a perfect score on the test set, I also ran 5-fold stratifi
 
 ## Streamlit app
 
-Live app: <url here>
+Live app: <https://ml-assignment2-2026aj05629-6ypu2uqcpxg8chw5sggyyh.streamlit.app/>
 
 - Upload a test CSV with the 30 feature columns and `diagnosis` (M/B or 1/0). You can also use or download `test_data.csv` from the sidebar.
 - Pick one of the five models from the dropdown.
